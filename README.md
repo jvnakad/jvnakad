@@ -19,7 +19,7 @@
 
 ### Analista de Dados 📊
 
-- **Setores**: Centrais de atendimento, KPIs, logística 🏥
+- **Setores**: Centrais de atendimento, KPIs, logística 📈
 - **Responsabilidades**: Análise de dados, geração de relatórios, suporte à tomada de decisões estratégicas 📋
 - **Ferramentas Utilizadas**: Excel, SQL, Power BI, Python 🛠️
 
